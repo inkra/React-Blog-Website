@@ -82,7 +82,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 <br><br>
 ## Write Page
 ![write](https://user-images.githubusercontent.com/65702027/148664419-9761ccee-4038-44c6-b234-ec86a3a37efe.PNG)<br><br>
-## Post Page
 <br><br>
 ## Post Page
 ![post](https://user-images.githubusercontent.com/65702027/148664420-5753c113-5dde-4ecc-9d58-45c6bebfcf5c.PNG)
